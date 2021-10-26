@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecords", "MusicRecords\MusicRecords.csproj", "{6EC45659-A7CF-480C-B634-93BE8D189FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecords.Test", "MusicRecords.Test\MusicRecords.Test.csproj", "{AFAD00C8-E833-4F4E-8015-E5578A82D676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC45659-A7CF-480C-B634-93BE8D189FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC45659-A7CF-480C-B634-93BE8D189FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC45659-A7CF-480C-B634-93BE8D189FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC45659-A7CF-480C-B634-93BE8D189FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAD00C8-E833-4F4E-8015-E5578A82D676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAD00C8-E833-4F4E-8015-E5578A82D676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAD00C8-E833-4F4E-8015-E5578A82D676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAD00C8-E833-4F4E-8015-E5578A82D676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8C176B-EBA3-4EDD-B697-0A9ED735427A}
+	EndGlobalSection
+EndGlobal
